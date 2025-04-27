@@ -24,3 +24,9 @@
 ### Add a new contract
 
 `npx blueprint create ContractName` or `yarn blueprint create ContractName`
+
+### Contract Specific [Personal addition]
+`npx blueprint build ContractOne`
+
+### then to run [after build]
+`npx blueprint run ContractOne`
